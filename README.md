@@ -1,2 +1,2 @@
 # D608644
-Public repo for testing purposes only. (Virtualisatie)
+Public repo for testing purposes only.
